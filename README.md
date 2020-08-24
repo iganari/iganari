@@ -45,12 +45,17 @@ Devops | <p align="left"><img src="https://devicons.github.io/devicon/devicon.gi
 Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p>
 -->
 
+
+
+
+<h1 align="center">Hi 👋, I'm iganari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
+
 <!--
-**iganari/iganari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -64,7 +69,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm iganari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [name](https://link.org)
+
 
 - 🌱 I’m currently learning **name**
 
