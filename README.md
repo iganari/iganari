@@ -1,13 +1,5 @@
 ### [WIP] 
 
-<p align="center">
-  <a href="https://dev.to/iganari" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iganari" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/iganari_" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iganari_" height="30" width="30" />
-  </a>
-</p>
 
 
 <h3 align="center">
@@ -49,7 +41,23 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 
 <h1 align="center">Hi 👋, I'm iganari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">
+  SRE from Japan
+</h3>
+
+
+
+<p align="center">
+  <a href="https://dev.to/iganari" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iganari" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/iganari_" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iganari_" height="30" width="30" />
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 
