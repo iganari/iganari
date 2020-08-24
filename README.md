@@ -1,4 +1,4 @@
-### [WIP] Hi there 👋
+### [WIP] 
 
 <p align="center">
   <a href="https://dev.to/iganari" target="blank">
