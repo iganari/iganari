@@ -46,7 +46,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 </p>
 
 
-- 🏠&nbsp;I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
+- 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 
 
 <!--
