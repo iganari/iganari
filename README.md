@@ -59,3 +59,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<h1 align="center">Hi 👋, I'm iganari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on [name](https://link.org)
+
+- 🌱 I’m currently learning **name**
+
+- 👯 I’m looking to collaborate on [name](https://link.org)
+
+- 🤝 I’m looking for help with [name](https://link.org)
+
+- 👨‍💻 All of my projects are available at [name](name)
+
+- 📝 I regulary write articles on [name](name)
+
+- 💬 Ask me about **name**
+
+- 📫 How to reach me **name**
+
+- ⚡ Fun fact **name**
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></p>
+-->
