@@ -6,14 +6,8 @@
 </p>
 -->
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iganari&layout=compact&hide=html" alt="iganari" />
-</p>
 
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iganari&show_icons=true" alt="iganari" />
-</p>
 
 <!--
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -90,4 +84,18 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 - ⚡ Fun fact **name**
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></p>
+-->
+
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iganari&show_icons=true" alt="iganari" />
+</p>
+
+
+<!--
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iganari&layout=compact&hide=html" alt="iganari" />
+</p>
+
 -->
