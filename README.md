@@ -99,3 +99,15 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 </p>
 
 -->
+
+
+## パッケージ系
+
++ Package GCP
+  + https://github.com/iganari/package-gcp
+
+## ハンズオン系
+
++ Hands On Serverless Network Endpoint Group
+  + https://github.com/iganari/handson-serverless-neg
+
