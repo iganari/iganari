@@ -104,6 +104,14 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 + Package GCP
   + https://github.com/iganari/package-gcp
++ Package Azure
+  + https://github.com/iganari/package-azure
++ Package Dockerfile
+  + https://github.com/iganari/package-dockerfile
++ Package Terraform
+  + https://github.com/iganari/package-terraform
++ [WIP] package-sql-sample
+  + https://github.com/iganari/package-sql-sample
 
 ## ハンズオン系
 
