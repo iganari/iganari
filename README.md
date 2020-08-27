@@ -119,3 +119,5 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-serverless-neg
 + [WIP] Hands On GKE Hello World
   + https://github.com/iganari/handson-gke-helloworld
++ [WIP] Hands On Cloud Run Hello World
+  + https://github.com/iganari/handson-cloudrun-helloworld
