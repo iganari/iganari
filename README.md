@@ -1,4 +1,3 @@
-### [WIP] 
 
 <!--
 <p align="left">
@@ -28,7 +27,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 
 
-<h1 align="center">Hi 👋, I'm iganari</h1>
+<h1 align="center">Hi 👋, I'm iganari 😉</h1>
 
 <h3 align="center">
   SRE from Japan
