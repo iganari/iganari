@@ -118,4 +118,4 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 + Hands On Serverless Network Endpoint Group
   + https://github.com/iganari/handson-serverless-neg
 + [WIP] Hands On GKE Hello World
-  + https://github.com/iganari/handson-gke-helloworld/tree/feature/add-hello-world
+  + https://github.com/iganari/handson-gke-helloworld
