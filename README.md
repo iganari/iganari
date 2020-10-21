@@ -46,8 +46,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
-- 💉 &nbsp Total number of blood donations --> 116
-- ✍&nbsp; WIP 
+- 💉 &nbsp; Total number of blood donations --> 116
+- ✍&nbsp; https://www.credential.net/profile/iganari/wallet 
 
 <!--
 
