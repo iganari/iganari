@@ -124,3 +124,10 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-gke
 + [WIP] Hands On Cloud Run Hello World
   + https://github.com/iganari/handson-cloudrun
+
+## Gist
+
++ `.vimrc`
+  + https://gist.github.com/iganari/a2baec1af976425cc8e21ccd68cf5585
++ `.gitconfig`
+  + https://gist.github.com/iganari/3687c553d514806e6eeaad8ea0f31648
