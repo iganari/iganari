@@ -107,6 +107,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/package-gcp
 + Package Azure
   + https://github.com/iganari/package-azure
++ Package AWS
+  + https://github.com/iganari/package-aws
 + Package Dockerfile
   + https://github.com/iganari/package-dockerfile
 + Package Terraform
