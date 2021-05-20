@@ -129,8 +129,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-serverless-neg
 + Hands On GKE
   + https://github.com/iganari/handson-gke
-+ [WIP] Hands On Cloud Run Hello World
-  + https://github.com/iganari/handson-cloudrun
++ [WIP] Hands On GCP
+  + https://github.com/iganari/handson-gcp
 
 ## Gist
 
