@@ -46,7 +46,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
-- 💉 &nbsp; Total number of blood donations --> 130
+- 💉 &nbsp; Total number of blood donations --> 132
 - ✍ &nbsp; Skills
   - GCP [Associate Cloud Engineer](https://www.credential.net/115187bd-ce23-46f7-8524-77246ace29a2)
   - GCP [Professional Cloud Architect](https://www.credential.net/18e4be4b-81dd-4d0d-a352-039045eae7f6)
@@ -130,6 +130,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 + Hands On Serverless Network Endpoint Group
   + https://github.com/iganari/handson-serverless-neg
++ Hands On reCAPTCHA Enterprise on Cloud Armor
+  + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
 + Hands On GKE
   + https://github.com/iganari/handson-gke
 + [WIP] Hands On GCP
