@@ -108,6 +108,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 + Package GCP
   + https://github.com/iganari/package-gcp
++ Package Google Workspace
+  + https://github.com/iganari/package-gws
 + Package Azure
   + https://github.com/iganari/package-azure
 + Package AWS
