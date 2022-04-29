@@ -147,6 +147,9 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-gcp
 + [Private] Hands On JMeter on GKE
   + https://github.com/iganari/handson-jmeter-on-gke
++ [WIP] Hands On reCAPTCHA Enterprise on Cloud Armor
+  + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
+
 
 ## ラボ系
 
