@@ -37,6 +37,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 <p align="center">
   <a href="https://dev.to/iganari" target="blank">
+    <!-- https://www.svgrepo.com/ -->
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iganari" height="30" width="30" />
   </a>
   <a href="https://twitter.com/iganari_" target="blank">
