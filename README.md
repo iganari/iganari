@@ -42,6 +42,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   </a>
   <a href="https://twitter.com/iganari_" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iganari_" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/iganari/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iganari" height="30" width="30" />
   </a>
 </p>
 
