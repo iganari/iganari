@@ -144,10 +144,10 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-serverless-neg
 + Hands On reCAPTCHA Enterprise on Cloud Armor
   + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
++ Hands On GCP
+  + https://github.com/iganari/handson-gcp
 + Hands On GKE
   + https://github.com/iganari/handson-gke
-+ [WIP] Hands On GCP
-  + https://github.com/iganari/handson-gcp
 + [Private] Hands On JMeter on GKE
   + https://github.com/iganari/handson-jmeter-on-gke
 + [WIP] Hands On reCAPTCHA Enterprise on Cloud Armor
