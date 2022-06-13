@@ -142,12 +142,9 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 + Hands On GCP
   + https://github.com/iganari/handson-gcp
-  + Hands On Serverless Network Endpoint Group
-    + https://github.com/iganari/handson-serverless-neg
-  + Hands On reCAPTCHA Enterprise on Cloud Armor
-    + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
-  + Handson On Cloud Pub/Sub to Slack through Cloud Functions
-    + https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions
+  + [Hands On Serverless Network Endpoint Group](https://github.com/iganari/handson-serverless-neg)
+  + [Hands On reCAPTCHA Enterprise on Cloud Armor](https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor)
+  + [Handson On Cloud Pub/Sub to Slack through Cloud Functions](https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions)
 + Hands On GKE
   + https://github.com/iganari/handson-gke
 + [Private] Hands On JMeter on GKE
