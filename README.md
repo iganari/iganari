@@ -49,7 +49,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
-- 💉 &nbsp; Total number of blood donations --> 134
+- 💉 &nbsp; Total number of blood donations --> 135
 - ✍ &nbsp; Skills
   - GCP
     - [Cloud Digital Leader](https://www.credential.net/fd61b04b-eb51-4460-839a-2659856023c3)
@@ -140,12 +140,14 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 ## ハンズオン系
 
-+ Hands On Serverless Network Endpoint Group
-  + https://github.com/iganari/handson-serverless-neg
-+ Hands On reCAPTCHA Enterprise on Cloud Armor
-  + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
 + Hands On GCP
   + https://github.com/iganari/handson-gcp
+  + Hands On Serverless Network Endpoint Group
+    + https://github.com/iganari/handson-serverless-neg
+  + Hands On reCAPTCHA Enterprise on Cloud Armor
+    + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
+  + Handson On Cloud Pub/Sub to Slack through Cloud Functions
+    + https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions
 + Hands On GKE
   + https://github.com/iganari/handson-gke
 + [Private] Hands On JMeter on GKE
