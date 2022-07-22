@@ -47,9 +47,11 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   </a>
 </p>
 
+ワタシハ　ケンケツ　チョットデキル
+I can donate blood a littele.
 
-- 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 - 💉 &nbsp; Total number of blood donations --> 135
+- 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 - ✍ &nbsp; Skills
   - GCP
     - [Cloud Digital Leader](https://www.credential.net/fd61b04b-eb51-4460-839a-2659856023c3)
