@@ -47,7 +47,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   </a>
 </p>
 
-![](https://raw.githubusercontent.com/iganari/zatsu/main/images/logo-kenketsu.png)
+![](https://raw.githubusercontent.com/iganari/iganari/main/logo-kenketsu.png)
 
 - 💉 &nbsp; Total number of blood donations --> 135
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
