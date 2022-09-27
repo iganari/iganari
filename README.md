@@ -52,12 +52,12 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 - 💉 &nbsp; Total number of blood donations --> 135
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 - ✍ &nbsp; Skills
-  - GCP
+  - Google Cloud ([Credential Holder Directory](https://googlecloudcertified.credential.net/profile/7e4337e2ced3d88a0d03fbe45f212bf10876dcf4))
     - [Cloud Digital Leader](https://www.credential.net/fd61b04b-eb51-4460-839a-2659856023c3)
     - [Associate Cloud Engineer](https://www.credential.net/1a05b754-280e-45f5-880b-ec5a1edaeba9)
     - [Professional Cloud Architect](https://www.credential.net/18e4be4b-81dd-4d0d-a352-039045eae7f6)
     - [Professional Cloud Developer](https://www.credential.net/d72749f0-81ff-4207-90a8-aae98f248b85)
-  - [Google Cloud Authorized Trainers](https://www.credential.net/6393882d-3f8d-47ef-9064-32176eb7fba0)
+    - [Google Cloud Authorized Trainers](https://www.credential.net/6393882d-3f8d-47ef-9064-32176eb7fba0)
   - Kubernetes
     - [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/c57a3511-77fd-48d0-a26b-8b5b7be4ec40)
 
