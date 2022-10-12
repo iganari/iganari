@@ -49,7 +49,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 ![](https://raw.githubusercontent.com/iganari/iganari/main/logo-kenketsu.png)
 
-- 💉 &nbsp; Total number of blood donations --> 13
+- 💉 &nbsp; Total number of blood donations --> 137
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 - ✍ &nbsp; Skills
   - Google Cloud ([Credential Holder Directory](https://googlecloudcertified.credential.net/profile/7e4337e2ced3d88a0d03fbe45f212bf10876dcf4))
