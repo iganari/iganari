@@ -34,7 +34,6 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 </h3>
 
 
-
 <p align="center">
   <a href="https://dev.to/iganari" target="blank">
     <!-- https://www.svgrepo.com/ -->
@@ -42,17 +41,40 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   </a>
   <a href="https://twitter.com/iganari_" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iganari_" height="30" width="30" />
+  </a>
   <a href="https://www.linkedin.com/in/iganari/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iganari" height="30" width="30" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.credential.net/fd61b04b-eb51-4460-839a-2659856023c3" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47478195" alt="iganari" height="100" width="100" />
+  </a>
+  <a href="https://www.credential.net/1a05b754-280e-45f5-880b-ec5a1edaeba9" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48652412" alt="iganari" height="100" width="100" />
+  </a>
+  <a href="https://www.credential.net/18e4be4b-81dd-4d0d-a352-039045eae7f6" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24447230" alt="iganari" height="100" width="100" />
+  </a>
+  <a href="https://www.credential.net/d72749f0-81ff-4207-90a8-aae98f248b85" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58566808" alt="iganari" height="100" width="100" />
+  </a>
+  <a href="https://www.credential.net/05f639af-dd05-4876-b938-a44cfdaace1c" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62665287" alt="iganari" height="100" width="100" />
+  </a>
+  <a href="https://www.credential.net/6393882d-3f8d-47ef-9064-32176eb7fba0" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51242933" alt="iganari" height="100" width="100" />
+  </a>
+</p>  
+
+
 ![](https://raw.githubusercontent.com/iganari/iganari/main/logo-kenketsu.png)
 
-- 💉 &nbsp; Total number of blood donations --> 137
+- 💉 &nbsp; Total number of blood donations --> 138
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 - ✍ &nbsp; Skills
-  - Google Cloud ([Credential Holder Directory](https://googlecloudcertified.credential.net/profile/7e4337e2ced3d88a0d03fbe45f212bf10876dcf4))
+  - Google Cloud ( [Credential Holder Directory](https://googlecloudcertified.credential.net/profile/7e4337e2ced3d88a0d03fbe45f212bf10876dcf4) )
     - [Cloud Digital Leader](https://www.credential.net/fd61b04b-eb51-4460-839a-2659856023c3)
     - [Associate Cloud Engineer](https://www.credential.net/1a05b754-280e-45f5-880b-ec5a1edaeba9)
     - [Professional Cloud Architect](https://www.credential.net/18e4be4b-81dd-4d0d-a352-039045eae7f6)
@@ -66,10 +88,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 <img alt="Professional Cloud Security Engineer" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62665287" width="50" height="50">
 -->
 
-
 <!--
-
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
