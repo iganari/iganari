@@ -57,9 +57,14 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
     - [Associate Cloud Engineer](https://www.credential.net/1a05b754-280e-45f5-880b-ec5a1edaeba9)
     - [Professional Cloud Architect](https://www.credential.net/18e4be4b-81dd-4d0d-a352-039045eae7f6)
     - [Professional Cloud Developer](https://www.credential.net/d72749f0-81ff-4207-90a8-aae98f248b85)
-    - [Google Cloud Authorized Trainers](https://www.credential.net/6393882d-3f8d-47ef-9064-32176eb7fba0)
+    - [Professional Cloud Security Engineer](https://www.credential.net/05f639af-dd05-4876-b938-a44cfdaace1c)
   - Kubernetes
     - [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/c57a3511-77fd-48d0-a26b-8b5b7be4ec40)
+
+<!--
+画層の埋め込みテスト
+<img alt="Professional Cloud Security Engineer" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62665287" width="50" height="50">
+-->
 
 
 <!--
