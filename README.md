@@ -180,7 +180,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-jmeter-on-gke
 + [WIP] Hands On reCAPTCHA Enterprise on Cloud Armor
   + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
-+ [WIP] Hands On Cloud Deploy Apply Multi GC Project Cloud Run
++ [WIP] Hands On Cloud Deploy Apply to Multi GC Project Cloud Run
   + https://github.com/iganari/handson-clouddeploy-app-multipj-run
 
 ## ラボ系
