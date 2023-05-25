@@ -182,6 +182,9 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
 + [WIP] Hands On Cloud Deploy Apply to Multi GC Project Cloud Run
   + https://github.com/iganari/handson-clouddeploy-app-multipj-run
++ [WIP] Hands On Cloud SQL Replication
+  + https://github.com/iganari/handson-cloudsql-replication
+
 
 ## ラボ系
 
