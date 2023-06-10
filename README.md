@@ -164,7 +164,12 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/package-sql-sample
 + Package StressTEST
   + https://github.com/iganari/package-stresstest
-
++ [Private] Package SendGrid
+  + https://github.com/iganari/package-sendgrid
++ [Private] Package Mailgun
+  + https://github.com/iganari/package-mailgun
++ [Private] Package Mailjet
+  + https://github.com/iganari/package-mailjet
 
 ## ハンズオン系
 
