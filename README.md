@@ -176,6 +176,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
     + [Hands On Cloud Pub/Sub to Slack through Cloud Functions](https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions)
 + Hands On App-Engine of Redirect-Server
   + https://github.com/iganari/handson-gae-redirect-svr
++ Hands On phpMyAdmin on Cloud Run to Cloud SQL
+  + https://github.com/iganari/handson-run-phpmyadmin-sql
 + Hands On GKE
   + https://github.com/iganari/handson-gke
 + [Private] Hands On JMeter on GKE
@@ -186,8 +188,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-clouddeploy-app-multipj-run
 + [WIP] Hands On Cloud SQL Replication
   + https://github.com/iganari/handson-cloudsql-replication
-+ [Private] Hands On phpMyAdmin on Cloud Run to Cloud SQL
-  + https://github.com/iganari/handson-run-phpmyadmin-sql
+
 
 
 ## ラボ系
