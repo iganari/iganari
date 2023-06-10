@@ -179,7 +179,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
     + [Hands On Serverless Network Endpoint Group](https://github.com/iganari/handson-serverless-neg)
     + [Hands On reCAPTCHA Enterprise on Cloud Armor](https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor)
     + [Hands On Cloud Pub/Sub to Slack through Cloud Functions](https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions)
-+ Hands On App-Engine of Redirect-Server
++ Hands On Redirect Server on App Engine
   + https://github.com/iganari/handson-gae-redirect-svr
 + Hands On phpMyAdmin on Cloud Run to Cloud SQL
   + https://github.com/iganari/handson-run-phpmyadmin-sql
