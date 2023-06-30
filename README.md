@@ -185,6 +185,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-run-phpmyadmin-sql
 + Hands On GKE
   + https://github.com/iganari/handson-gke
++ Hands On Cloud Run
+  + https://github.com/iganari/handson-cloudrun
 + [Private] Hands On JMeter on GKE
   + https://github.com/iganari/handson-jmeter-on-gke
 + [WIP] Hands On reCAPTCHA Enterprise on Cloud Armor
