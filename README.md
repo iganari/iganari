@@ -179,6 +179,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
     + [Hands On Serverless Network Endpoint Group](https://github.com/iganari/handson-serverless-neg)
     + [Hands On reCAPTCHA Enterprise on Cloud Armor](https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor)
     + [Hands On Cloud Pub/Sub to Slack through Cloud Functions](https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions)
+    + [Hands On Deploy from Cloud Build to Cloud Run( using Artifact Registry )](https://github.com/iganari/handson-build-ar-run)
 + Hands On Redirect Server on App Engine
   + https://github.com/iganari/handson-gae-redirect-svr
 + Hands On phpMyAdmin on Cloud Run to Cloud SQL
@@ -187,8 +188,6 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-gke
 + Hands On Cloud Run
   + https://github.com/iganari/handson-cloudrun
-+ Hands On Cloud Build
-  + https://github.com/iganari/handson-cloudbuild
 + [Private] Hands On JMeter on GKE
   + https://github.com/iganari/handson-jmeter-on-gke
 + [WIP] Hands On reCAPTCHA Enterprise on Cloud Armor
