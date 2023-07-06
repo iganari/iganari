@@ -180,10 +180,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
     + [Hands On reCAPTCHA Enterprise on Cloud Armor](https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor)
     + [Hands On Cloud Pub/Sub to Slack through Cloud Functions](https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions)
     + [Hands On Deploy from Cloud Build to Cloud Run( using Artifact Registry )](https://github.com/iganari/handson-build-ar-run)
-+ Hands On Redirect Server on App Engine
-  + https://github.com/iganari/handson-gae-redirect-svr
-+ Hands On phpMyAdmin on Cloud Run to Cloud SQL
-  + https://github.com/iganari/handson-run-phpmyadmin-sql
+    + [Hands On Redirect Server on App Engine](https://github.com/iganari/handson-gae-redirect-svr)
+    + [Hands On phpMyAdmin on Cloud Run to Cloud SQL](https://github.com/iganari/handson-run-phpmyadmin-sql)
 + Hands On GKE
   + https://github.com/iganari/handson-gke
 + Hands On Cloud Run
@@ -196,8 +194,6 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-clouddeploy-app-multipj-run
 + [WIP] Hands On Cloud SQL Replication
   + https://github.com/iganari/handson-cloudsql-replication
-
-
 
 ## ラボ系
 
