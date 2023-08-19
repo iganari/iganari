@@ -192,6 +192,8 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-clouddeploy-app-multipj-run
 + [WIP] Hands On Cloud SQL Replication
   + https://github.com/iganari/handson-cloudsql-replication
++ Hands On Private Path of Cloud SQL
+  + https://github.com/iganari/handson-cloudsql-private-path 
 
 ## ラボ系
 
