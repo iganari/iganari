@@ -194,6 +194,10 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/handson-clouddeploy-app-multipj-run
 + [WIP] Hands On Cloud SQL Replication
   + https://github.com/iganari/handson-cloudsql-replication
++ [WIP] [Private] [handson-run-sm](https://github.com/iganari/handson-run-sm)
+  + Cloud Run と Secret Manager を試すハンズオンです
++ [WIP] [Private] [Hands On CI/CD](https://github.com/iganari/handson-cicd)
+  + Google Cloud における Continuous Integration と Continuous Delivery/Deployment を試すハンズオンです
 
 
 ## ラボ系
