@@ -169,7 +169,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 + [Private] Package Mailjet
   + https://github.com/iganari/package-mailjet
 + [Private] Package Linux Settings
-  + [package-linux-settings](https://github.com/iganari/package-linux-settings)
+  + https://github.com/iganari/package-linux-settings
 
 
 ## ハンズオン系
