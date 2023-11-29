@@ -183,6 +183,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
     + [Hands On Deploy from Cloud Build to Cloud Run( using Artifact Registry )](https://github.com/iganari/handson-build-ar-run)
     + [Hands On Redirect Server on App Engine](https://github.com/iganari/handson-gae-redirect-svr)
     + [Hands On phpMyAdmin on Cloud Run to Cloud SQL](https://github.com/iganari/handson-run-phpmyadmin-sql)
+    + [Hands On phpRedisAdmin on Cloud Run to Memorystore for Redis](https://github.com/iganari/handson-run-phpredisadmin-redis)
     + [Hands On Private Path of Cloud SQL](https://github.com/iganari/handson-cloudsql-private-path )
     + https://github.com/iganari/handson-compute-detect-ssh-login/tree/feature/add-handson
 + Hands On GKE
