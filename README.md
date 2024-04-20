@@ -186,6 +186,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
     + [Hands On Cloud Run to Memorystore for Redis](https://github.com/iganari/handson-run-memorystore-redis)
     + [Hands On Private Path of Cloud SQL](https://github.com/iganari/handson-cloudsql-private-path )
     + https://github.com/iganari/handson-compute-detect-ssh-login/tree/feature/add-handson
+    + https://github.com/iganari/handson-loadbalancing-and-wildcard-sslcertificate
 + Hands On GKE
   + https://github.com/iganari/handson-gke
 + Hands On Cloud Run
