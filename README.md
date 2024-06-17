@@ -74,7 +74,7 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 - 💉 &nbsp; Total number of blood donations --> 141
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 - ✍ &nbsp; Skills (https://www.credly.com/users/iganari/badges)
-  - Google Cloud ( [Credential Holder Directory](https://googlecloudcertified.credential.net/profile/7e4337e2ced3d88a0d03fbe45f212bf10876dcf4) )
+  - Google Cloud ( [Credly](https://www.credly.com/users/iganari/badges) )
     - [Cloud Digital Leader](https://www.credential.net/fd61b04b-eb51-4460-839a-2659856023c3)
     - [Associate Cloud Engineer](https://www.credential.net/1a05b754-280e-45f5-880b-ec5a1edaeba9)
     - [Professional Cloud Architect](https://www.credential.net/18e4be4b-81dd-4d0d-a352-039045eae7f6)
