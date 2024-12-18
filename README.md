@@ -140,36 +140,36 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 ## パッケージ系
 
-+ Package GCP
-  + https://github.com/iganari/package-gcp
-+ Package Google Workspace
-  + https://github.com/iganari/package-gws
-+ Package Azure
-  + https://github.com/iganari/package-azure
-+ Package AWS
-  + https://github.com/iganari/package-aws
-+ Package Dockerfile
-  + https://github.com/iganari/package-dockerfile
-+ Package Docker Compose
-  + https://github.com/iganari/package-docker-compose
+- Package GCP
+  - https://github.com/iganari/package-gcp
+- Package Google Workspace
+  - https://github.com/iganari/package-gws
+- Package Azure
+  - https://github.com/iganari/package-azure
+- Package AWS
+  - https://github.com/iganari/package-aws
+- Package Dockerfile
+  - https://github.com/iganari/package-dockerfile
+- Package Docker Compose
+  - https://github.com/iganari/package-docker-compose
 + Package GitHub Actions
-  + https://github.com/iganari/package-github-actions
-+ Package Terraform
-  + https://github.com/iganari/package-terraform
-+ Package Kubernetes
-  + https://github.com/iganari/package-kubernetes
-+ Package HTML and CSS
-  + https://github.com/iganari/package-html-css
-+ Package StressTEST
-  + https://github.com/iganari/package-stresstest
-+ [Private] Package SendGrid
-  + https://github.com/iganari/package-sendgrid
-+ [Private] Package Mailgun
-  + https://github.com/iganari/package-mailgun
-+ [Private] Package Mailjet
-  + https://github.com/iganari/package-mailjet
-+ [Private] Package Linux Settings
-  + https://github.com/iganari/package-linux-settings
+  - https://github.com/iganari/package-github-actions
+- Package Terraform
+  - https://github.com/iganari/package-terraform
+- Package Kubernetes
+  - https://github.com/iganari/package-kubernetes
+- Package HTML and CSS
+  - https://github.com/iganari/package-html-css
+- Package StressTEST
+  - https://github.com/iganari/package-stresstest
+- [Private] Package SendGrid
+  - https://github.com/iganari/package-sendgrid
+- [Private] Package Mailgun
+  - https://github.com/iganari/package-mailgun
+- [Private] Package Mailjet
+  - https://github.com/iganari/package-mailjet
+- [Private] Package Linux Settings
+  - https://github.com/iganari/package-linux-settings
 - [Private] Package Looker Studio
   - https://github.com/iganari/package-lookerstudio
 
