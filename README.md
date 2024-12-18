@@ -170,6 +170,9 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   + https://github.com/iganari/package-mailjet
 + [Private] Package Linux Settings
   + https://github.com/iganari/package-linux-settings
+- [Private] Package Looker Studio
+  - https://github.com/iganari/package-lookerstudio
+
 
 
 ## ハンズオン系
