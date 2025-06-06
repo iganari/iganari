@@ -179,51 +179,55 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
 
 https://github.com/iganari?tab=repositories&q=handson&type=&language=&sort=
 
-+ Hands On GCP
-  + https://github.com/iganari/handson-gcp
-  + 入っている Repo
-    + [Hands On Serverless Network Endpoint Group](https://github.com/iganari/handson-serverless-neg)
-    + [Hands On reCAPTCHA Enterprise on Cloud Armor](https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor)
-    + [Hands On Cloud Pub/Sub to Slack through Cloud Functions](https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions)
-    + [Hands On Deploy from Cloud Build to Cloud Run( using Artifact Registry )](https://github.com/iganari/handson-build-ar-run)
-    + [Hands On Redirect Server on App Engine](https://github.com/iganari/handson-gae-redirect-svr)
-    + [Hands On phpMyAdmin on Cloud Run to Cloud SQL](https://github.com/iganari/handson-run-phpmyadmin-sql)
-    + [Hands On Cloud Run to Memorystore for Redis](https://github.com/iganari/handson-run-memorystore-redis)
-    + [Hands On Private Path of Cloud SQL](https://github.com/iganari/handson-cloudsql-private-path )
-    + https://github.com/iganari/handson-compute-detect-ssh-login/tree/feature/add-handson
-    + https://github.com/iganari/handson-loadbalancing-and-wildcard-sslcertificate
-    + https://github.com/iganari/handson-run-schemaspy-sql
-+ Hands On GKE
-  + https://github.com/iganari/handson-gke
-+ Hands On Cloud Run
-  + https://github.com/iganari/handson-cloudrun
-+ [Private] Hands On JMeter on GKE
-  + https://github.com/iganari/handson-jmeter-on-gke
-+ [WIP] Hands On reCAPTCHA Enterprise on Cloud Armor
-  + https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
-+ [WIP] Hands On Cloud Deploy Apply to Multi GC Project Cloud Run
-  + https://github.com/iganari/handson-clouddeploy-app-multipj-run
-+ [WIP] Hands On Cloud SQL Replication
-  + https://github.com/iganari/handson-cloudsql-replication
-+ [WIP] [Private] [handson-run-sm](https://github.com/iganari/handson-run-sm)
-  + Cloud Run と Secret Manager を試すハンズオンです
-+ [WIP] [Private] [Hands On CI/CD](https://github.com/iganari/handson-cicd)
-  + Google Cloud における Continuous Integration と Continuous Delivery/Deployment を試すハンズオンです
+- Hands On GCP
+  - https://github.com/iganari/handson-gcp
+  - 入っている Repo
+    - [Hands On Serverless Network Endpoint Group](https://github.com/iganari/handson-serverless-neg)
+    - [Hands On reCAPTCHA Enterprise on Cloud Armor](https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor)
+    - [Hands On Cloud Pub/Sub to Slack through Cloud Functions](https://github.com/iganari/handson-cloudpubsub-to-slack-through-cloudfunctions)
+    - [Hands On Deploy from Cloud Build to Cloud Run( using Artifact Registry )](https://github.com/iganari/handson-build-ar-run)
+    - [Hands On Redirect Server on App Engine](https://github.com/iganari/handson-gae-redirect-svr)
+    - [Hands On phpMyAdmin on Cloud Run to Cloud SQL](https://github.com/iganari/handson-run-phpmyadmin-sql)
+    - [Hands On Cloud Run to Memorystore for Redis](https://github.com/iganari/handson-run-memorystore-redis)
+    - [Hands On Private Path of Cloud SQL](https://github.com/iganari/handson-cloudsql-private-path )
+    - https://github.com/iganari/handson-compute-detect-ssh-login/tree/feature/add-handson
+    - https://github.com/iganari/handson-loadbalancing-and-wildcard-sslcertificate
+    - https://github.com/iganari/handson-run-schemaspy-sql
+- Hands On GKE
+  - https://github.com/iganari/handson-gke
+- Hands On Cloud Run
+  - https://github.com/iganari/handson-cloudrun
+- [Private] Hands On JMeter on GKE
+  - https://github.com/iganari/handson-jmeter-on-gke
+- [WIP] Hands On reCAPTCHA Enterprise on Cloud Armor
+  - https://github.com/iganari/handson-recaptcha-enterprise-on-cloud-armor
+- [WIP] Hands On Cloud Deploy Apply to Multi GC Project Cloud Run
+  - https://github.com/iganari/handson-clouddeploy-app-multipj-run
+- [WIP] Hands On Cloud SQL Replication
+  - https://github.com/iganari/handson-cloudsql-replication
+- [WIP] [Private] [handson-run-sm](https://github.com/iganari/handson-run-sm)
+  - Cloud Run と Secret Manager を試すハンズオンです
+- [WIP] [Private] [Hands On CI/CD](https://github.com/iganari/handson-cicd)
+  - Google Cloud における Continuous Integration と Continuous Delivery/Deployment を試すハンズオンです
 
+## ジョーク系 
+
+- Joke Command
+  - https://github.com/iganari/joke-command
 
 ## ラボ系
 
-+ Code Labo
-  + https://github.com/iganari/code-labo
+- Code Labo
+  - https://github.com/iganari/code-labo
 
 ## Gist
 
-+ `.vimrc`
-  + https://gist.github.com/iganari/a2baec1af976425cc8e21ccd68cf5585
-+ `.gitconfig`
-  + https://gist.github.com/iganari/3687c553d514806e6eeaad8ea0f31648
+- `.vimrc`
+  - https://gist.github.com/iganari/a2baec1af976425cc8e21ccd68cf5585
+- `.gitconfig`
+  - https://gist.github.com/iganari/3687c553d514806e6eeaad8ea0f31648
 
 ## Tips
 
-+ github-actions-sample
-  + https://github.com/iganari/github-actions-sample
+- github-actions-sample
+  - https://github.com/iganari/github-actions-sample
