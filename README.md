@@ -192,6 +192,7 @@ https://github.com/iganari?tab=repositories&q=handson&type=&language=&sort=
     - [Hands On Private Path of Cloud SQL](https://github.com/iganari/handson-cloudsql-private-path )
     - https://github.com/iganari/handson-compute-detect-ssh-login/tree/feature/add-handson
     - https://github.com/iganari/handson-loadbalancing-and-wildcard-sslcertificate
+    - https://github.com/iganari/handson-certificate-manager
     - https://github.com/iganari/handson-run-schemaspy-sql
 - Hands On GKE
   - https://github.com/iganari/handson-gke
