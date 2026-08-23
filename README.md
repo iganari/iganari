@@ -210,7 +210,7 @@ https://github.com/iganari?tab=repositories&q=handson&type=&language=&sort=
   - Cloud Run と Secret Manager を試すハンズオンです
 - [WIP] [Private] [Hands On CI/CD](https://github.com/iganari/handson-cicd)
   - Google Cloud における Continuous Integration と Continuous Delivery/Deployment を試すハンズオンです
--[WIP] [Private] [Hands On Cloud SQL feature PSC ](https://github.com/iganari/handson-cloudsql-psc)
+- [WIP] [Private] [Hands On Cloud SQL feature PSC ](https://github.com/iganari/handson-cloudsql-psc)
   - Cloud SQL の PSC (Private Service Connect) を使ったハンズオンです
 
 ## ジョーク系 
