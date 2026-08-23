@@ -172,6 +172,9 @@ Other | <p align="left"><img src="https://devicons.github.io/devicon/devicon.git
   - https://github.com/iganari/package-linux-settings
 - [Private] Package Looker Studio
   - https://github.com/iganari/package-lookerstudio
+- [Private] Package Mermaid
+  - [https://github.com/iganari/package-lookerstudio](https://github.com/iganari/package-mermaid)
+
 
 
 
