@@ -114,7 +114,7 @@
 
 TBD
 
-## Hobbies and Interests
+## Hobbies and Interests 🏄
 
 - Total number of blood donations --> 141
 - TBD
