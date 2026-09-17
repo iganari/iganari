@@ -44,7 +44,7 @@
 
 ![](https://raw.githubusercontent.com/iganari/iganari/main/logo-kenketsu.png)
 
-- 💉 &nbsp; Total number of blood donations --> 141
+
 - 🏠 &nbsp; I’m currently working on [Cloud Ace](https://www.cloud-ace.jp/)
 - ✍ &nbsp; Skills
   - Google Cloud ([Credly](https://www.credly.com/users/iganari/badges))
@@ -110,6 +110,13 @@
 
 -->
 
+## Skills
+
+TBD
+
+## Hobbies and Interests
+
+- 💉 &nbsp; Total number of blood donations --> 141
 
 ## パッケージ系
 
