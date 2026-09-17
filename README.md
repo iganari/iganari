@@ -116,7 +116,8 @@ TBD
 
 ## Hobbies and Interests
 
-- 💉 &nbsp; Total number of blood donations --> 141
+- Total number of blood donations --> 141
+- TBD
 
 ## パッケージ系
 
