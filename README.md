@@ -1,10 +1,6 @@
 
 
-
-
-<h1 align="center">Hi 👋, I'm iganari 😉</h1>
-
-# Hi 👋, I'm iganari 😉
+# Hi!! I'm iganari
 
 <h3 align="center">
   SRE from Japan
