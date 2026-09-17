@@ -20,27 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.credential.net/fd61b04b-eb51-4460-839a-2659856023c3" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47478195" alt="iganari" height="100" width="100" />
-  </a>
-  <a href="https://www.credential.net/1a05b754-280e-45f5-880b-ec5a1edaeba9" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48652412" alt="iganari" height="100" width="100" />
-  </a>
-  <a href="https://www.credential.net/18e4be4b-81dd-4d0d-a352-039045eae7f6" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24447230" alt="iganari" height="100" width="100" />
-  </a>
-  <a href="https://www.credential.net/d72749f0-81ff-4207-90a8-aae98f248b85" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58566808" alt="iganari" height="100" width="100" />
-  </a>
-  <a href="https://www.credential.net/05f639af-dd05-4876-b938-a44cfdaace1c" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62665287" alt="iganari" height="100" width="100" />
-  </a>
-  <a href="https://www.credential.net/6393882d-3f8d-47ef-9064-32176eb7fba0" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51242933" alt="iganari" height="100" width="100" />
-  </a>
-</p>  
-
 
 ![](https://raw.githubusercontent.com/iganari/iganari/main/logo-kenketsu.png)
 
