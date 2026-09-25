@@ -125,7 +125,7 @@
 
 ## ナレッジ系
 
-[knowledge-*](https://github.com/iganari?tab=repositories&q=knowledge-&type=&language=&sort=)
+https://github.com/iganari?tab=repositories&q=knowledge-&type=&language=&sort=
 
 ## ハンズオン系
 
